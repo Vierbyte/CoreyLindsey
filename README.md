@@ -1,1 +1,1 @@
-# CoreyLindsey
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&size=21&duration=2000&center=true&vCenter=true&lines=I'M+COREY;A+Web+Developer;A+Tech+enthusiast;A+GEEK;A+NERD;ANIME+LOVER;SKATEBOARDER;IF(U+R+READING+THIS)+%7B;U+R+IN+A+GENJUSTU%7D;FULLSTack+Software+Engineer" alt="Typing SVG" /></a>
